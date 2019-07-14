@@ -1,0 +1,5 @@
+rootProject.name = 'DemoProject'
+include 'selenium'
+include 'restapi'
+include 'javatest'
+

@@ -1,0 +1,40 @@
+plugins {
+    id 'java'
+}
+
+group 'DemoProject'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+
+}
+
+
+task firsttTask{
+    println ('this is first tesr')
+}
+
+task secondTask{
+    println ('this is second tesr')
+    doLast {
+        println 'inisde second doLast'
+    }
+    doFirst {
+        println 'This is first'
+    }
+
+}
+
+/*task copyDocs(type: Copy) {
+    from 'src/test/resources/test'
+    into 'src/test/java'
+}*/
+
+
