@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DemoProject.iml" filepath="$PROJECT_DIR$/.idea/modules/DemoProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DemoProject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DemoProject_main.iml" group="DemoProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DemoProject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DemoProject_test.iml" group="DemoProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javatest/javatest.iml" filepath="$PROJECT_DIR$/.idea/modules/javatest/javatest.iml" group="javatest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javatest/javatest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/javatest/javatest_main.iml" group="javatest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javatest/javatest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/javatest/javatest_test.iml" group="javatest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/restapi/restapi.iml" filepath="$PROJECT_DIR$/.idea/modules/restapi/restapi.iml" group="restapi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/restapi/restapi_main.iml" filepath="$PROJECT_DIR$/.idea/modules/restapi/restapi_main.iml" group="restapi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/restapi/restapi_test.iml" filepath="$PROJECT_DIR$/.idea/modules/restapi/restapi_test.iml" group="restapi" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium/selenium.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium/selenium.iml" group="selenium" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium/selenium_main.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium/selenium_main.iml" group="selenium" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium/selenium_test.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium/selenium_test.iml" group="selenium" />
+    </modules>
+  </component>
+</project>
