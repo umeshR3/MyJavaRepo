@@ -9,7 +9,7 @@ public class MultiplicationTable {
         int N=scan.nextInt();
         for(int i=1;i<=10;i++)
         {
-            System.out.println(N+" *25 "+i+" = "+(N*i));
+            System.out.println(N+" * "+i+" = "+(N*i));
         }
     }
 }

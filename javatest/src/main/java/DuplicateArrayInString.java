@@ -1,4 +1,6 @@
 public class DuplicateArrayInString {
+    static int count;
+
     public static void main(String args[])
     {
         String[] array={"abc","agc","abc","bba"};
@@ -9,8 +11,11 @@ public class DuplicateArrayInString {
                 if((array[i].equals(array[j])) && (i != j))
                 {
                     System.out.println(array[j]);
+
                 }
             }
+
         }
+
     }
 }
