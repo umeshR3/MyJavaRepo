@@ -5,6 +5,7 @@ import com.pages.HomePage;
 import com.pages.LoginPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
@@ -17,7 +18,9 @@ import java.awt.*;
 public class LoginTest {
     WebDriver driver;
     LoginPage login;
-    HomePage homepage=new HomePage(driver);
+   // HomePage homepage=new HomePage(driver);
+    HomePage homepage= PageFactory.initElements(driver,HomePage.class);
+
     Utillclass utillclass=new Utillclass(driver);
     @BeforeClass
   /*public void lunchdriver()
@@ -36,7 +39,7 @@ public class LoginTest {
 
     }*/
 
-    @Test(dependsOnMethods = "login")
+    @Test()
     public void navigateToProjectsAndCustomers()
     {
        // String expectedProjectAndCustomerTitle="actiTIME - Active Projects & Customers";

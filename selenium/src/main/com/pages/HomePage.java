@@ -5,11 +5,12 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 public class HomePage extends BasePage {
-    public WebDriver driver;
+    CustomerProjectPage customerProjectPage;
+    WebElement searchTasks;
 
     public HomePage(WebDriver driver) {
         super(driver);
-        this.driver=driver;
+         customerProjectPage=new CustomerProjectPage(driver);
     }
 
     @Override
@@ -23,25 +24,29 @@ public class HomePage extends BasePage {
         this.driver=driver;
     }
 */
-    public void ProjectsAndCustomers()
+    public CustomerProjectPage ProjectsAndCustomers()
     {
        WebElement projectandcustomer= driver.findElement(By.xpath("//a[contains(text(),'Projects & Customers')]"));
         projectandcustomer.click();
-        driver.findElement(By.xpath("//input[@value='Add New Customer']")).click();
+        return customerProjectPage;
     }
 
-   /* public void OpenTask()
+    public void openTask()
     {
         driver.findElement(By.partialLinkText("Open Tasks")).click();
-    }*/
+    }
     public void CompletedTasks()
     {
         driver.findElement(By.partialLinkText("Completed")).click();
     }
-    public void ArchivesMethod()
-    {
+    public void ArchivesMethod() {
         driver.findElement(By.partialLinkText("Archives")).click();
     }
+    public void clickOnSerachTask(){
+        searchTasks.click();
+
+    }
+
 
    /* @Override
     public boolean waitForLoaded() {
