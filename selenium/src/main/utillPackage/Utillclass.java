@@ -1,17 +1,24 @@
 package utillPackage;
 
+import com.google.gson.Gson;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.ss.usermodel.WorkbookFactory;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
+import java.io.*;
 import java.util.Properties;
 
 public class Utillclass {
     WebDriver driver;
     Properties properties;
+    Object obj;
+    public Utillclass()
+    {
+
+    }
 
     public Utillclass(WebDriver driver)
     {
@@ -23,6 +30,22 @@ public class Utillclass {
        String titel= driver.getTitle();
 
         return titel;
+    }
+    public void jsonFile() throws IOException {
+        Gson gson = new Gson();
+
+
+
+    }
+    public String excelInstance(int rownum,int cellnum) throws IOException {
+        File file=new File("C:\\Users\\umesh\\Desktop\\TestData.xlsx");
+        FileInputStream fileInputStream=new FileInputStream(file);
+        Workbook wb= WorkbookFactory.create(fileInputStream);
+        Sheet sheet=wb.getSheet("Sheet1");
+        String value=sheet.getRow(rownum).getCell(cellnum).getStringCellValue();
+        return value;
+
+
     }
     public  Properties getPropertyInstance() throws IOException {
 
@@ -56,8 +79,15 @@ public class Utillclass {
         String textReturned= driver.findElement(element).getText();
         return textReturned;
     }
-    public void getAPIMethod(){
+    public String getAPIMethod(){
         String getEndPointUrl="http://localhost:8081/rest/api/2/issue/SCRUM-25";
+        return getEndPointUrl;
 
+    }
+
+    public File getFileHandler(String fileName)
+    {
+        File file=new File("src\\test\\resources\\"+fileName);
+        return file;
     }
 }
