@@ -7,6 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import utillPackage.Utillclass;
+import utillPackage.com.pojoClasses.authenticationPojoClass;
 
 import java.io.IOException;
 
@@ -36,8 +37,10 @@ public class BaseTest {
         login.passWord();
         login.submit();
         Thread.sleep(1000);*/
-       String userName=utillclass.getPropertyValues("UserName");
-       String passWord=utillclass.getPropertyValues("Password");
+      // String userName=utillclass.getPropertyValues("UserName");
+       //String passWord=utillclass.getPropertyValues("Password");
+        String userName=utillclass.jsonFile().getUsername();
+        String passWord=utillclass.jsonFile().getPassword();
 
        login.loginAs(userName,passWord);
        Thread.sleep(3000);

@@ -7,6 +7,8 @@ import org.apache.poi.ss.usermodel.WorkbookFactory;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import utillPackage.com.pojoClasses.Customer;
+import utillPackage.com.pojoClasses.authenticationPojoClass;
 
 import java.io.*;
 import java.util.Properties;
@@ -31,14 +33,18 @@ public class Utillclass {
 
         return titel;
     }
-    public void jsonFile() throws IOException {
-        Gson gson = new Gson();
+    public authenticationPojoClass jsonFile() throws IOException {
+        Gson gson=new Gson();
+        // System.out.println(utillclass.getFileHandler("test1").getAbsolutePath());
+        //authenticationPojoClass auth=gson.fromJson(new FileReader(utillclass.getFileHandler("test1").getAbsolutePath()),authenticationPojoClass.class);
+        authenticationPojoClass auth=gson.fromJson(new FileReader("D:\\01Automation\\MyJavaRepo\\selenium\\src\\test\\resources\\jsonFile"),authenticationPojoClass.class);
+        // auth.getCustomer()[0].getName();
+        Customer[] customer=auth.getCustomer();
 
-
-
+        return auth;
     }
     public String excelInstance(int rownum,int cellnum) throws IOException {
-        File file=new File("C:\\Users\\umesh\\Desktop\\TestData.xlsx");
+        File file=new File("D:\\01Automation\\MyJavaRepo\\selenium\\src\\test\\resources\\TestData.xlsx");
         FileInputStream fileInputStream=new FileInputStream(file);
         Workbook wb= WorkbookFactory.create(fileInputStream);
         Sheet sheet=wb.getSheet("Sheet1");
@@ -73,7 +79,7 @@ public class Utillclass {
         driver.findElement(element).sendKeys(sendKeysValue);
     }
     public void sendKeyMethod(WebElement element , String sendKeysValue){
-        element.sendKeys(sendKeysValue);
+         element.sendKeys(sendKeysValue);
     }
     public String getText(By element){
         String textReturned= driver.findElement(element).getText();

@@ -11,7 +11,7 @@ public class MainTest {
     @Test
     public void testExcel() throws IOException {
         utillclass=new Utillclass();
-        String value= utillclass.excelInstance(1,1);
+        String value= utillclass.excelInstance(0,0);
         System.out.println("Value of excel is"+value);
     }
 }
