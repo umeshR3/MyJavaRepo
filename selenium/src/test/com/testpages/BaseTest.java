@@ -37,7 +37,7 @@ public class BaseTest {
         login.passWord();
         login.submit();
         Thread.sleep(1000);*/
-      // String userName=utillclass.getPropertyValues("UserName");
+       //String userName=utillclass.getPropertyValues("UserName");
        //String passWord=utillclass.getPropertyValues("Password");
         String userName=utillclass.jsonFile().getUsername();
         String passWord=utillclass.jsonFile().getPassword();

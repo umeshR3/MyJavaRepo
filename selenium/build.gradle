@@ -19,10 +19,6 @@ dependencies {
     compile group: 'org.apache.poi', name: 'poi', version: '4.1.0'
     compile group: 'org.apache.poi', name: 'poi-ooxml', version: '4.1.0'
 
-
-
-
-
 }
 
 task copyDocsSel(type: Copy) {
@@ -42,3 +38,9 @@ sourceSets{
     }
 }
 
+test {
+    useTestNG() {
+        // runlist to executed. path is relative to current folder
+        suites 'src/test/resources/testng.xml'
+    }
+}

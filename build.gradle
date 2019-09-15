@@ -19,13 +19,10 @@ dependencies {
     compile group: 'org.apache.poi', name: 'poi', version: '4.1.0'
     compile group: 'org.apache.poi', name: 'poi-ooxml', version: '4.1.0'
 
-
-
-
 }
 
 
-task firsttTask{
+/*task firsttTask{
     println ('this is first tesr')
 }
 
@@ -38,7 +35,7 @@ task secondTask{
         println 'This is first'
     }
 
-}
+}*/
 
 /*task copyDocs(type: Copy) {
     from 'src/test/resources/test'

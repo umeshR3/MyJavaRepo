@@ -1,0 +1,12 @@
+{
+  "username" : "admin",
+  "password" : "manager",
+  "customer" : [
+    {"name":"custName2","description":"If required"},
+    {"name":"custName3","description":"If required"},
+    {"name":"custName4","description":"If required"}
+  ],
+  "projectdetails" :
+{ "name":"custProject","description":"If required"}
+
+}

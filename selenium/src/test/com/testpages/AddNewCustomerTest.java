@@ -12,8 +12,7 @@ import utillPackage.Utillclass;
 
 public class AddNewCustomerTest extends BaseTest {
    // LoginPage loginTest;
-    //LoginPage login;
-    HomePage homepage;
+   HomePage homepage;
     Utillclass utillclass;
     CustomerProjectPage customerProjectPage;
     CustomerID customerID;
@@ -44,6 +43,7 @@ public class AddNewCustomerTest extends BaseTest {
 */
 
     }
+    //LoginPage login;
     @Test(dependsOnMethods = "navigateToProjectsAndCustomers")
     public void addNewcustomer()
     {

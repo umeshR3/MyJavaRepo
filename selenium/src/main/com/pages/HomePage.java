@@ -31,6 +31,7 @@ public class HomePage extends BasePage {
         return customerProjectPage;
     }
 
+
     public void openTask()
     {
         driver.findElement(By.partialLinkText("Open Tasks")).click();

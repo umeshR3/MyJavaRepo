@@ -20,7 +20,7 @@ public class RestAssuredPostTest {
         restapiUtil.getResponseAPI()
                 .given().contentType("application/json")
                 .accept("application/json")
-                .body(null)
+                .body("null")
                 .when()
                 .post("/rest/api/2/issue/bulk");
     }
