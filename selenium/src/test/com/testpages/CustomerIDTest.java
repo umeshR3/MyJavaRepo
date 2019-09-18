@@ -39,9 +39,9 @@ public class CustomerIDTest extends BaseTest {
 */
     }
     @Test(dependsOnMethods = "navigateToProjectsAndCustomers")
-    public void addNewcustomerAddNewProject()
-    {
+    public void addNewcustomerAddNewProject() throws InterruptedException {
         customerID=new CustomerID(driver);
+        customerID.customeraddAndAddProject();
        /* String expectedText="Customer has been successfully registered.";
         String actualText= customerProjectPage.customeradd().getText();
         Assert.assertEquals(expectedText,actualText);

@@ -1,19 +1,20 @@
 package sortingProgarmPackage;
 
 class BubbleDemo{
-    public void bubbleTest(int[] numberArray)
+    public int[] bubbleTest(int[] numberArray)
     {
        int len= numberArray.length;
         int temp;
         for(int i=0;i<=len-1;i++)
         {
-            if(numberArray[i]>numberArray[i+1])
+            if(numberArray[i]>=numberArray[i+1])
             {
                 temp=numberArray[i];
                 numberArray[i]=numberArray[i+1];
                 numberArray[i+1]=temp;
             }
         }
+        return numberArray;
 
     }
 }
@@ -29,6 +30,9 @@ public class BubbleSort {
         }
         System.out.println("After sort");
         for(int i=0;i<numberArray.length;i++)
+        {
+            System.out.println(b.bubbleTest(numberArray));
+        }
         {
     }}
 
