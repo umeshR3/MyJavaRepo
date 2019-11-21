@@ -30,8 +30,8 @@ public class CustomerProjectPage extends BasePage {
     }
     public CustomerProjectPage customeradd()
     {
-       /* driver.findElement(customerElement).sendKeys(customerName);
-        driver.findElement(customerDiscription).sendKeys(discription);*/
+        driver.findElement(customerElement).sendKeys(customerName);
+        driver.findElement(customerDiscription).sendKeys(discription);
         driver.findElement(clickAddCustomerButton).click();
         utillclass.sendKeyMethod(customerElement,customerName);
         utillclass.sendKeyMethod(customerDiscription,discription);

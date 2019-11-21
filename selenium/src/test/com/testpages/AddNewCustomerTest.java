@@ -1,6 +1,6 @@
 package com.testpages;
 
-import com.pages.CustomerID;
+import com.pages.ProjectAdd;
 import com.pages.CustomerProjectPage;
 import com.pages.HomePage;
 import org.openqa.selenium.support.PageFactory;
@@ -15,7 +15,7 @@ public class AddNewCustomerTest extends BaseTest {
    HomePage homepage;
     Utillclass utillclass;
     CustomerProjectPage customerProjectPage;
-    CustomerID customerID;
+    ProjectAdd projectAdd;
     @BeforeClass
     public void lunchdriver()
     {
@@ -55,9 +55,9 @@ public class AddNewCustomerTest extends BaseTest {
 
     }
     @Test(dependsOnMethods = "navigateToProjectsAndCustomers")
-    public void addNewcustomerAddNewProject()
-    {
-        customerID=new CustomerID(driver);
+    public void addNewcustomerAddNewProject() throws InterruptedException {
+        projectAdd=new ProjectAdd(driver);
+        projectAdd.customeraddAndAddProject();
        /* String expectedText="Customer has been successfully registered.";
         String actualText= customerProjectPage.customeradd().getText();
         Assert.assertEquals(expectedText,actualText);

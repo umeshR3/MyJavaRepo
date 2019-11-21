@@ -3,7 +3,7 @@ package javaconceptexamples.inheritancepackage;
 public class PrintDuplicateInString {
     public static void main(String args[])
     {
-        String str="uu";
+        String str="uumesyd";
         int count=0;
         char[] c=str.toCharArray();
         System.out.println("Duplicate elements present are");

@@ -46,7 +46,7 @@ public class Utillclass {
     public String excelInstance(int rownum,int cellnum) throws IOException {
         File file=new File("D:\\01Automation\\MyJavaRepo\\selenium\\src\\test\\resources\\TestData.xlsx");
         FileInputStream fileInputStream=new FileInputStream(file);
-        Workbook wb= WorkbookFactory.create(fileInputStream);
+        Workbook wb=WorkbookFactory.create(fileInputStream);
         Sheet sheet=wb.getSheet("Sheet1");
         String value=sheet.getRow(rownum).getCell(cellnum).getStringCellValue();
         return value;
@@ -78,9 +78,9 @@ public class Utillclass {
     public void sendKeyMethod(By element,String sendKeysValue){
         driver.findElement(element).sendKeys(sendKeysValue);
     }
-    public void sendKeyMethod(WebElement element , String sendKeysValue){
+    /*public void sendKeyMethod(WebElement element , String sendKeysValue){
          element.sendKeys(sendKeysValue);
-    }
+    }*/
     public String getText(By element){
         String textReturned= driver.findElement(element).getText();
         return textReturned;
@@ -96,4 +96,5 @@ public class Utillclass {
         File file=new File("src\\test\\resources\\"+fileName);
         return file;
     }
+
 }

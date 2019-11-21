@@ -2,16 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d789d0b-6770-41b6-bf01-4737a38ff643" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__aopalliance_aopalliance_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_beust_jcommander_1_48.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_pageobject_pageobject_core_1_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__info_cukes_cucumber_core_1_2_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__info_cukes_cucumber_html_0_2_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__info_cukes_cucumber_java_1_2_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__info_cukes_cucumber_jvm_deps_1_0_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__info_cukes_cucumber_testng_1_2_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__info_cukes_gherkin_2_12_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_cucumber_cucumber_core_4_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_cucumber_cucumber_expressions_7_0_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_cucumber_cucumber_java_4_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_cucumber_datatable_1_1_14.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_cucumber_datatable_dependencies_1_1_14.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_cucumber_gherkin_5_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_cucumber_tag_expressions_1_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_aspectj_aspectjrt_1_7_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_beanshell_bsh_2_0b4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_3_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_3_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_3_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_3_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_3_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_test_3_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_testng_testng_6_9_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/Cucumber.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/Cucumber/Cucumber_main.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/Cucumber/Cucumber_test.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Cucumber/src/main/java/RunnerTest/RunWith.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Cucumber/src/main/java/RunnerTest/Runner.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Cucumber/src/test/java/features/Contact_Form.feature" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Cucumber/src/test/java/stepDef/Contact_Form.java" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/DemoProject_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/DemoProject_main.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/DemoProject_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/DemoProject_test.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
       <change beforePath="$PROJECT_DIR$/javatest/out/production/classes/Practicepackage/PrintStars.class" afterPath="$PROJECT_DIR$/javatest/out/production/classes/Practicepackage/PrintStars.class" />
-      <change beforePath="$PROJECT_DIR$/javatest/out/production/classes/sortingProgarmPackage/BubbleDemo.class" afterPath="$PROJECT_DIR$/javatest/out/production/classes/sortingProgarmPackage/BubbleDemo.class" />
+      <change beforePath="$PROJECT_DIR$/javatest/out/production/classes/javaconceptexamples/inheritancepackage/PrintDuplicateInString.class" afterPath="$PROJECT_DIR$/javatest/out/production/classes/javaconceptexamples/inheritancepackage/PrintDuplicateInString.class" />
       <change beforePath="$PROJECT_DIR$/javatest/out/production/classes/sortingProgarmPackage/BubbleSort.class" afterPath="$PROJECT_DIR$/javatest/out/production/classes/sortingProgarmPackage/BubbleSort.class" />
       <change beforePath="$PROJECT_DIR$/javatest/src/main/java/Practicepackage/PrintStars.java" afterPath="$PROJECT_DIR$/javatest/src/main/java/Practicepackage/PrintStars.java" />
-      <change beforePath="$PROJECT_DIR$/javatest/src/main/java/sortingProgarmPackage/BubbleSort.java" afterPath="$PROJECT_DIR$/javatest/src/main/java/sortingProgarmPackage/BubbleSort.java" />
-      <change beforePath="$PROJECT_DIR$/restapi/src/main/java/com/RestEndPointMethods/RESTAssuredGetMethod.java" afterPath="$PROJECT_DIR$/restapi/src/main/java/com/RestEndPointMethods/RESTAssuredGetMethod.java" />
+      <change beforePath="$PROJECT_DIR$/javatest/src/main/java/javaconceptexamples/inheritancepackage/PrintDuplicateInString.java" afterPath="$PROJECT_DIR$/javatest/src/main/java/javaconceptexamples/inheritancepackage/PrintDuplicateInString.java" />
+      <change beforePath="$PROJECT_DIR$/restapi/out/test/classes/com/RestAssuredTestMethods/RestAssuredGetTest.class" afterPath="$PROJECT_DIR$/restapi/out/test/classes/com/RestAssuredTestMethods/RestAssuredGetTest.class" />
+      <change beforePath="$PROJECT_DIR$/restapi/out/test/classes/com/RestAssuredTestMethods/RestAssuredPostTest.class" afterPath="$PROJECT_DIR$/restapi/out/test/classes/com/RestAssuredTestMethods/RestAssuredPostTest.class" />
+      <change beforePath="$PROJECT_DIR$/restapi/src/main/java/utilPackage/RESTAPIUtil.java" afterPath="$PROJECT_DIR$/restapi/src/main/java/utilPackage/RESTAPIUtil.java" />
       <change beforePath="$PROJECT_DIR$/restapi/src/test/java/com/RestAssuredTestMethods/RestAssuredGetTest.java" afterPath="$PROJECT_DIR$/restapi/src/test/java/com/RestAssuredTestMethods/RestAssuredGetTest.java" />
-      <change beforePath="$PROJECT_DIR$/selenium/out/test/classes/com/testpages/CustomerIDTest.class" afterPath="$PROJECT_DIR$/selenium/out/test/classes/com/testpages/CustomerIDTest.class" />
-      <change beforePath="$PROJECT_DIR$/selenium/src/test/com/testpages/CustomerIDTest.java" afterPath="$PROJECT_DIR$/selenium/src/test/com/testpages/CustomerIDTest.java" />
+      <change beforePath="$PROJECT_DIR$/restapi/src/test/java/com/RestAssuredTestMethods/RestAssuredPostTest.java" afterPath="$PROJECT_DIR$/restapi/src/test/java/com/RestAssuredTestMethods/RestAssuredPostTest.java" />
+      <change beforePath="$PROJECT_DIR$/selenium/out/production/classes/com/pages/CustomerID.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/selenium/out/production/classes/com/pages/CustomerProjectPage.class" afterPath="$PROJECT_DIR$/selenium/out/production/classes/com/pages/CustomerProjectPage.class" />
+      <change beforePath="$PROJECT_DIR$/selenium/out/production/classes/utillPackage/Utillclass.class" afterPath="$PROJECT_DIR$/selenium/out/production/classes/utillPackage/Utillclass.class" />
+      <change beforePath="$PROJECT_DIR$/selenium/out/test/classes/com/testpages/AddNewCustomerTest.class" afterPath="$PROJECT_DIR$/selenium/out/test/classes/com/testpages/AddNewCustomerTest.class" />
+      <change beforePath="$PROJECT_DIR$/selenium/out/test/classes/com/testpages/CustomerIDTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/selenium/src/main/com/pages/CustomerID.java" afterPath="$PROJECT_DIR$/selenium/src/main/com/pages/ProjectAdd.java" />
+      <change beforePath="$PROJECT_DIR$/selenium/src/main/com/pages/CustomerProjectPage.java" afterPath="$PROJECT_DIR$/selenium/src/main/com/pages/CustomerProjectPage.java" />
+      <change beforePath="$PROJECT_DIR$/selenium/src/main/utillPackage/Utillclass.java" afterPath="$PROJECT_DIR$/selenium/src/main/utillPackage/Utillclass.java" />
+      <change beforePath="$PROJECT_DIR$/selenium/src/test/com/testpages/AddNewCustomerTest.java" afterPath="$PROJECT_DIR$/selenium/src/test/com/testpages/AddNewCustomerTest.java" />
+      <change beforePath="$PROJECT_DIR$/selenium/src/test/com/testpages/CustomerIDTest.java" afterPath="$PROJECT_DIR$/selenium/src/test/com/testpages/ProjectAddTest.java" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -25,6 +82,9 @@
     <ignored path="$PROJECT_DIR$/selenium/.gradle/" />
     <ignored path="$PROJECT_DIR$/selenium/build/" />
     <ignored path="$PROJECT_DIR$/selenium/out/" />
+    <ignored path="$PROJECT_DIR$/Cucumber/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Cucumber/build/" />
+    <ignored path="$PROJECT_DIR$/Cucumber/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,108 +127,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CustomerID.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/selenium/src/main/com/pages/CustomerID.java">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cucumber/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="488">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JsonExampleDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/selenium/src/test/com/testpages/JsonExampleDemo.java">
+      <file leaf-file-name="Contact_Form.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cucumber/src/test/java/features/Contact_Form.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Invoker.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.14.3/bfd2538501a129a142fe8366169c48b91609dc0b/testng-6.14.3-sources.jar!/org/testng/internal/Invoker.java">
+      <file leaf-file-name="Contact_Form.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Cucumber/src/test/java/stepDef/Contact_Form.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="591" column="0" lean-forward="false" selection-start-line="591" selection-start-column="0" selection-end-line="591" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Utillclass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/selenium/src/main/utillPackage/Utillclass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
-                <element signature="e#2563#2564#0" expanded="true" />
-                <element signature="e#2630#2631#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RESTAssuredGetMethod.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/restapi/src/main/java/com/RestEndPointMethods/RESTAssuredGetMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RestAssuredGetTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/restapi/src/test/java/com/RestAssuredTestMethods/RestAssuredGetTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResponseOptions.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.rest-assured/rest-assured/4.0.0/894ac3a674c00a2d8d448e86aa79ee4e37e76c3c/rest-assured-4.0.0-sources.jar!/io/restassured/response/ResponseOptions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="46" column="17" lean-forward="true" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JsonPath.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.rest-assured/json-path/4.0.0/96d9ecbd98f310416bf8e7fd4b60900e5f8f38ea/json-path-4.0.0-sources.jar!/io/restassured/path/json/JsonPath.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="192" column="7" lean-forward="true" selection-start-line="192" selection-start-column="7" selection-end-line="192" selection-end-column="7" />
-              <folding>
-                <element signature="e#6174#6175#0" expanded="true" />
-                <element signature="e#6204#6205#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RESTAPIUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/restapi/src/main/java/utilPackage/RESTAPIUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RestAssuredPostTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/restapi/src/test/java/com/RestAssuredTestMethods/RestAssuredPostTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -178,6 +164,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -186,9 +173,12 @@
     <findStrings>
       <find>depre</find>
       <find>6.14</find>
+      <find>CustomerID</find>
     </findStrings>
     <dirStrings>
       <dir>D:\01Automation\MyJavaRepo</dir>
+      <dir>D:\01Automation\MyJavaRepo\selenium\src\main</dir>
+      <dir>D:\01Automation\MyJavaRepo\selenium\src</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -219,6 +209,10 @@
               <ExternalProjectPojo>
                 <option name="name" value="DemoProject" />
                 <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":Cucumber" />
+                <option name="path" value="$PROJECT_DIR$/Cucumber" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value=":javatest" />
@@ -256,6 +250,10 @@
                 <option name="description" value="Displays the sub-projects of root project 'DemoProject'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cucumber" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles main classes." />
@@ -379,6 +377,141 @@
               <ExternalTaskPojo>
                 <option name="description" value="Displays the properties of root project 'DemoProject'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Cucumber">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':Cucumber'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':Cucumber'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="cucumber" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':Cucumber'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':Cucumber'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':Cucumber'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':Cucumber'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':Cucumber'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':Cucumber'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':Cucumber'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/Cucumber" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
             </list>
@@ -785,13 +918,14 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="9403428928264" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="2858874641" />
+        <entry key="$PROJECT_DIR$" value="10984334024476" />
+        <entry key="$PROJECT_DIR$/Cucumber/build.gradle" value="326131874" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="1182622126" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2083459160" />
         <entry key="$PROJECT_DIR$/javatest/build.gradle" value="2614101396" />
         <entry key="$PROJECT_DIR$/restapi/build.gradle" value="377002832" />
         <entry key="$PROJECT_DIR$/selenium/build.gradle" value="942311872" />
-        <entry key="$PROJECT_DIR$/settings.gradle" value="343215073" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="2378446907" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -805,6 +939,13 @@
                     <value>
                       <ExternalModuleBuildClasspathPojo>
                         <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/Cucumber">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/Cucumber" />
                       </ExternalModuleBuildClasspathPojo>
                     </value>
                   </entry>
@@ -1001,15 +1142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/javatest/src/main/java/inheritanceDemo/SingleLevelInheritance.java" />
-        <option value="$PROJECT_DIR$/javatest/src/main/java/inheritanceDemo/MultilevelInhritancee.java" />
-        <option value="$PROJECT_DIR$/javatest/src/main/java/inheritanceDemo/constructo_chain.java" />
-        <option value="$PROJECT_DIR$/javatest/src/main/java/inheritanceDemo/DefaultconDemo.java" />
-        <option value="$PROJECT_DIR$/javatest/src/main/java/inheritanceDemo/MaltipleInheriantce.java" />
-        <option value="$PROJECT_DIR$/javatest/src/main/java/inheritanceDemo/EmployeeDemo.java" />
-        <option value="$PROJECT_DIR$/javatest/src/main/java/inheritanceDemo/conDemo.java" />
-        <option value="$PROJECT_DIR$/javatest/src/main/java/ReverseTheStringWordByWord.java" />
-        <option value="$PROJECT_DIR$/javatest/src/main/java/DuplicateArrayInString.java" />
         <option value="$PROJECT_DIR$/javatest/src/main/java/DuplicateLetterAndCount.java" />
         <option value="$PROJECT_DIR$/selenium/src/main/com/pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/javatest/src/main/java/testPackage/AddDemo.java" />
@@ -1026,7 +1158,6 @@
         <option value="$PROJECT_DIR$/restapi/pom.xml" />
         <option value="$PROJECT_DIR$/restapi/src/test/java/com/RestAssuredTestMethods/RestAssuredGetMethod.java" />
         <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
-        <option value="$PROJECT_DIR$/restapi/src/main/java/utilPackage/RESTAPIUtil.java" />
         <option value="$PROJECT_DIR$/selenium/src/test/com/testpages/GetAPIMethodTest.java" />
         <option value="$PROJECT_DIR$/selenium/src/test/resources/test1.json" />
         <option value="$PROJECT_DIR$/selenium/src/test/resources/test1" />
@@ -1036,22 +1167,32 @@
         <option value="$PROJECT_DIR$/selenium/src/main/utillPackage/com/pojoClasses/Customer.java" />
         <option value="$PROJECT_DIR$/selenium/src/test/resources/jsonFile" />
         <option value="$PROJECT_DIR$/selenium/src/test/com/testpages/MainTest.java" />
-        <option value="$PROJECT_DIR$/selenium/src/main/utillPackage/Utillclass.java" />
-        <option value="$PROJECT_DIR$/selenium/src/test/com/testpages/AddNewCustomerTest.java" />
         <option value="$PROJECT_DIR$/selenium/src/main/com/pages/HomePage.java" />
         <option value="$PROJECT_DIR$/selenium/src/test/com/testpages/BaseTest.java" />
-        <option value="$PROJECT_DIR$/selenium/src/main/com/pages/CustomerProjectPage.java" />
         <option value="$PROJECT_DIR$/selenium/src/test/resources/testng.xml" />
         <option value="$PROJECT_DIR$/selenium/build.gradle" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/restapi/build.gradle" />
-        <option value="$PROJECT_DIR$/restapi/src/test/java/com/RestAssuredTestMethods/RestAssuredPostTest.java" />
-        <option value="$PROJECT_DIR$/javatest/src/main/java/Practicepackage/PrintStars.java" />
         <option value="$PROJECT_DIR$/javatest/src/main/java/sortingProgarmPackage/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/selenium/src/test/com/testpages/CustomerIDTest.java" />
-        <option value="$PROJECT_DIR$/selenium/src/main/com/pages/CustomerID.java" />
         <option value="$PROJECT_DIR$/restapi/src/main/java/com/RestEndPointMethods/RESTAssuredGetMethod.java" />
+        <option value="$PROJECT_DIR$/selenium/src/main/com/pages/CustomerProjectPage.java" />
+        <option value="$PROJECT_DIR$/selenium/src/test/com/testpages/CustomerIDTest.java" />
+        <option value="$PROJECT_DIR$/Cucumber/src/features/mulitiplcation.feature" />
+        <option value="$PROJECT_DIR$/Cucumber/src/main/java/RunnerTest/RunWith.java" />
+        <option value="$PROJECT_DIR$/Cucumber/src/main/java/RunnerTest/Runner.java" />
+        <option value="$PROJECT_DIR$/javatest/src/main/java/Practicepackage/PrintStars.java" />
+        <option value="$PROJECT_DIR$/javatest/src/main/java/javaconceptexamples/inheritancepackage/PrintDuplicateInString.java" />
+        <option value="$PROJECT_DIR$/restapi/src/test/java/com/RestAssuredTestMethods/RestAssuredPostTest.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/restapi/src/main/java/utilPackage/RESTAPIUtil.java" />
+        <option value="$PROJECT_DIR$/selenium/src/main/com/pages/CustomerID.java" />
+        <option value="$PROJECT_DIR$/selenium/src/test/com/testpages/AddNewCustomerTest.java" />
+        <option value="$PROJECT_DIR$/selenium/src/main/utillPackage/Utillclass.java" />
+        <option value="$PROJECT_DIR$/selenium/src/main/com/pages/ProjectAdd.java" />
+        <option value="$PROJECT_DIR$/selenium/src/test/com/testpages/ProjectAddTest.java" />
         <option value="$PROJECT_DIR$/restapi/src/test/java/com/RestAssuredTestMethods/RestAssuredGetTest.java" />
+        <option value="$PROJECT_DIR$/Cucumber/src/test/java/features/Contact_Form.feature" />
+        <option value="$PROJECT_DIR$/Cucumber/build.gradle" />
+        <option value="$PROJECT_DIR$/Cucumber/src/test/java/stepDef/Contact_Form.java" />
       </list>
     </option>
   </component>
@@ -1083,10 +1224,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1097,70 +1238,32 @@
             <path>
               <item name="DemoProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyJavaRepo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="restapi" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Cucumber" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="DemoProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyJavaRepo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="restapi" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Cucumber" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DemoProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyJavaRepo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="restapi" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyJavaRepo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="restapi" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyJavaRepo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="restapi" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="RestEndPointMethods" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyJavaRepo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="restapi" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utilPackage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyJavaRepo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="restapi" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Cucumber" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="DemoProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyJavaRepo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="restapi" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="Cucumber" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DemoProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyJavaRepo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="restapi" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAssuredTestMethods" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -1170,8 +1273,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25172412" />
+    <property name="last_opened_file_path" value="E:/POMJARs/slf4j-api-1.7.12.jar!/" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="RunnerTest" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1185,7 +1294,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.RestAssuredPostTest.getJsonPath">
+  <component name="RunManager" selected="TestNG.ProjectAddTest.addMorePoject">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -1233,7 +1342,7 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
-    <configuration name="CustomerIDTest.addNewcustomerAddNewProject" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AddNewCustomerTest.addNewcustomerAddNewProject" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.testpages.*" />
@@ -1245,7 +1354,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.testpages" />
-      <option name="MAIN_CLASS_NAME" value="com.testpages.CustomerIDTest" />
+      <option name="MAIN_CLASS_NAME" value="com.testpages.AddNewCustomerTest" />
       <option name="METHOD_NAME" value="addNewcustomerAddNewProject" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
@@ -1265,20 +1374,20 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="RestAssuredGetTest.getAPIMethod" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ProjectAddTest.addMorePoject" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.RestAssuredTestMethods.*" />
+          <option name="PATTERN" value="com.testpages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="restapi_test" />
+      <module name="selenium_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.RestAssuredTestMethods" />
-      <option name="MAIN_CLASS_NAME" value="com.RestAssuredTestMethods.RestAssuredGetTest" />
-      <option name="METHOD_NAME" value="getAPIMethod" />
+      <option name="PACKAGE_NAME" value="com.testpages" />
+      <option name="MAIN_CLASS_NAME" value="com.testpages.ProjectAddTest" />
+      <option name="METHOD_NAME" value="addMorePoject" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -1297,20 +1406,20 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="RestAssuredPostTest.getJsonPath" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ProjectAddTest.addNewcustomerAddNewProject" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.RestAssuredTestMethods.*" />
+          <option name="PATTERN" value="com.testpages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="restapi_test" />
+      <module name="selenium_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.RestAssuredTestMethods" />
-      <option name="MAIN_CLASS_NAME" value="com.RestAssuredTestMethods.RestAssuredPostTest" />
-      <option name="METHOD_NAME" value="getJsonPath" />
+      <option name="PACKAGE_NAME" value="com.testpages" />
+      <option name="MAIN_CLASS_NAME" value="com.testpages.ProjectAddTest" />
+      <option name="METHOD_NAME" value="addNewcustomerAddNewProject" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -1329,20 +1438,20 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="RestAssuredPostTest.postMethod" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ProjectAddTest.addProjectAddTaskToPoject" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.RestAssuredTestMethods.*" />
+          <option name="PATTERN" value="com.testpages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="restapi_test" />
+      <module name="selenium_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.RestAssuredTestMethods" />
-      <option name="MAIN_CLASS_NAME" value="com.RestAssuredTestMethods.RestAssuredPostTest" />
-      <option name="METHOD_NAME" value="postMethod" />
+      <option name="PACKAGE_NAME" value="com.testpages" />
+      <option name="MAIN_CLASS_NAME" value="com.testpages.ProjectAddTest" />
+      <option name="METHOD_NAME" value="addProjectAddTaskToPoject" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -1361,20 +1470,20 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="RestAssuredPostTest.postMethodDemo" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ProjectAddTest.addProjectTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.RestAssuredTestMethods.*" />
+          <option name="PATTERN" value="com.testpages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="restapi_test" />
+      <module name="selenium_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.RestAssuredTestMethods" />
-      <option name="MAIN_CLASS_NAME" value="com.RestAssuredTestMethods.RestAssuredPostTest" />
-      <option name="METHOD_NAME" value="postMethodDemo" />
+      <option name="PACKAGE_NAME" value="com.testpages" />
+      <option name="MAIN_CLASS_NAME" value="com.testpages.ProjectAddTest" />
+      <option name="METHOD_NAME" value="addProjectTest" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -1427,19 +1536,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.CustomerIDTest.addNewcustomerAddNewProject" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.RestAssuredGetTest.getAPIMethod" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.RestAssuredPostTest.postMethodDemo" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.RestAssuredPostTest.postMethod" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.RestAssuredPostTest.getJsonPath" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.AddNewCustomerTest.addNewcustomerAddNewProject" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.ProjectAddTest.addNewcustomerAddNewProject" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.ProjectAddTest.addProjectTest" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.ProjectAddTest.addProjectAddTaskToPoject" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.ProjectAddTest.addMorePoject" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.RestAssuredPostTest.getJsonPath" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.RestAssuredPostTest.postMethod" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.RestAssuredPostTest.postMethodDemo" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.RestAssuredGetTest.getAPIMethod" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.CustomerIDTest.addNewcustomerAddNewProject" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.ProjectAddTest.addMorePoject" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.ProjectAddTest.addProjectAddTaskToPoject" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.ProjectAddTest.addProjectTest" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.ProjectAddTest.addNewcustomerAddNewProject" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.AddNewCustomerTest.addNewcustomerAddNewProject" />
       </list>
     </recent_temporary>
   </component>
@@ -1460,55 +1569,56 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CustomerIDTest_addNewcustomerAddNewProject - 2019.09.17 at 09h 17m 45s.xml">
-      <configuration name="CustomerIDTest.addNewcustomerAddNewProject" configurationId="TestNG" />
+    <history-entry file="ProjectAddTest_addMorePoject - 2019.10.19 at 22h 38m 25s.xml">
+      <configuration name="ProjectAddTest.addMorePoject" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CustomerIDTest_addNewcustomerAddNewProject - 2019.09.17 at 09h 20m 14s.xml">
-      <configuration name="CustomerIDTest.addNewcustomerAddNewProject" configurationId="TestNG" />
+    <history-entry file="ProjectAddTest_addMorePoject - 2019.10.19 at 22h 39m 00s.xml">
+      <configuration name="ProjectAddTest.addMorePoject" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RestAssuredGetTest_getAPIMethod - 2019.09.17 at 09h 32m 46s.xml">
-      <configuration name="RestAssuredGetTest.getAPIMethod" configurationId="TestNG" />
+    <history-entry file="ProjectAddTest_addMorePoject - 2019.10.19 at 22h 46m 51s.xml">
+      <configuration name="ProjectAddTest.addMorePoject" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RestAssuredGetTest_getAPIMethod - 2019.09.17 at 09h 46m 43s.xml">
-      <configuration name="RestAssuredGetTest.getAPIMethod" configurationId="TestNG" />
+    <history-entry file="ProjectAddTest_addProjectAddTaskToPoject - 2019.10.19 at 22h 28m 13s.xml">
+      <configuration name="ProjectAddTest.addProjectAddTaskToPoject" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RestAssuredGetTest_getAPIMethod - 2019.09.17 at 09h 48m 10s.xml">
-      <configuration name="RestAssuredGetTest.getAPIMethod" configurationId="TestNG" />
+    <history-entry file="ProjectAddTest_addProjectTest - 2019.10.19 at 17h 06m 14s.xml">
+      <configuration name="ProjectAddTest.addProjectTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RestAssuredGetTest_getAPIMethod - 2019.09.17 at 09h 48m 49s.xml">
-      <configuration name="RestAssuredGetTest.getAPIMethod" configurationId="TestNG" />
+    <history-entry file="ProjectAddTest_addProjectTest - 2019.10.19 at 17h 12m 26s.xml">
+      <configuration name="ProjectAddTest.addProjectTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RestAssuredGetTest_getAPIMethod - 2019.09.17 at 09h 50m 00s.xml">
-      <configuration name="RestAssuredGetTest.getAPIMethod" configurationId="TestNG" />
+    <history-entry file="ProjectAddTest_addProjectTest - 2019.10.19 at 17h 14m 52s.xml">
+      <configuration name="ProjectAddTest.addProjectTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RestAssuredPostTest_getJsonPath - 2019.09.17 at 09h 53m 02s.xml">
-      <configuration name="RestAssuredPostTest.getJsonPath" configurationId="TestNG" />
+    <history-entry file="ProjectAddTest_addProjectTest - 2019.10.19 at 17h 16m 00s.xml">
+      <configuration name="ProjectAddTest.addProjectTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RestAssuredPostTest_postMethod - 2019.09.17 at 09h 52m 44s.xml">
-      <configuration name="RestAssuredPostTest.postMethod" configurationId="TestNG" />
+    <history-entry file="ProjectAddTest_addProjectTest - 2019.10.19 at 17h 18m 42s.xml">
+      <configuration name="ProjectAddTest.addProjectTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RestAssuredPostTest_postMethodDemo - 2019.09.17 at 09h 52m 26s.xml">
-      <configuration name="RestAssuredPostTest.postMethodDemo" configurationId="TestNG" />
+    <history-entry file="ProjectAddTest_addProjectTest - 2019.10.19 at 17h 19m 52s.xml">
+      <configuration name="ProjectAddTest.addProjectTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36949152" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36949152" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23676248" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21709532" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24205749" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1520,40 +1630,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29152542" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36949152" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22844176" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24205749" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
+    </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -1682,34 +1761,10 @@
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/selenium/src/test/com/testpages/BaseTest.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/selenium/src/main/com/pages/HomePage.java</url>
           <line>27</line>
           <properties />
           <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/selenium/src/test/com/testpages/BaseTest.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/selenium/src/test/com/testpages/BaseTest.java</url>
-          <line>27</line>
-          <properties />
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/selenium/src/test/com/testpages/BaseTest.java</url>
-          <line>28</line>
-          <properties />
-          <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/selenium/src/test/com/testpages/BaseTest.java</url>
@@ -1728,12 +1783,6 @@
           <line>45</line>
           <properties />
           <option name="timeStamp" value="84" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/selenium/src/test/com/testpages/BaseTest.java</url>
-          <line>24</line>
-          <properties />
-          <option name="timeStamp" value="88" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/selenium/src/main/utillPackage/Utillclass.java</url>
@@ -1766,22 +1815,40 @@
           <option name="timeStamp" value="106" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/selenium/src/main/com/pages/CustomerID.java</url>
-          <line>32</line>
-          <properties />
-          <option name="timeStamp" value="108" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/selenium/src/main/com/pages/CustomerID.java</url>
-          <line>33</line>
-          <properties />
-          <option name="timeStamp" value="109" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/selenium/src/test/com/testpages/CustomerIDTest.java</url>
-          <line>43</line>
+          <url>file://$PROJECT_DIR$/selenium/src/test/com/testpages/ProjectAddTest.java</url>
+          <line>44</line>
           <properties />
           <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/restapi/src/main/java/utilPackage/RESTAPIUtil.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/restapi/src/main/java/utilPackage/RESTAPIUtil.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/restapi/src/main/java/utilPackage/RESTAPIUtil.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/restapi/src/main/java/utilPackage/RESTAPIUtil.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/restapi/src/test/java/com/RestAssuredTestMethods/RestAssuredPostTest.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="118" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/selenium/src/test/com/testpages/LoginTest.java</url>
@@ -1789,89 +1856,345 @@
           <properties field="homepage" class="com.testpages.LoginTest" />
           <option name="timeStamp" value="82" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/selenium/src/main/com/pages/ProjectAdd.java</url>
+          <line>16</line>
+          <properties field="customerElement" class="com.pages.ProjectAdd" />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/selenium/src/main/com/pages/ProjectAdd.java</url>
+          <line>17</line>
+          <properties field="clickAddCustomerButton" class="com.pages.ProjectAdd" />
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/selenium/src/main/com/pages/ProjectAdd.java</url>
+          <line>18</line>
+          <properties field="customerDiscription" class="com.pages.ProjectAdd" />
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="111" />
+      <option name="time" value="123" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/restapi/pom.xml">
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/Practicepackage/ArrayCopy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="20" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.rest-assured/rest-assured/4.0.0/894ac3a674c00a2d8d448e86aa79ee4e37e76c3c/rest-assured-4.0.0-sources.jar!/io/restassured/specification/AuthenticationSpecification.java">
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/Practicepackage/PrimeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="157" column="23" lean-forward="false" selection-start-line="157" selection-start-column="23" selection-end-line="157" selection-end-column="23" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.rest-assured/rest-assured/4.0.0/894ac3a674c00a2d8d448e86aa79ee4e37e76c3c/rest-assured-4.0.0-sources.jar!/io/restassured/RestAssured.java">
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/Practicepackage/ReverseArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="360" column="46" lean-forward="false" selection-start-line="360" selection-start-column="35" selection-end-line="360" selection-end-column="46" />
+        <state relative-caret-position="425">
+          <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.rest-assured/rest-assured/4.0.0/894ac3a674c00a2d8d448e86aa79ee4e37e76c3c/rest-assured-4.0.0-sources.jar!/io/restassured/response/ValidatableResponseOptions.java">
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/sortingProgarmPackage/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="45" lean-forward="false" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/Practicepackage/Array2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.rest-assured/rest-assured/4.0.0/894ac3a674c00a2d8d448e86aa79ee4e37e76c3c/rest-assured-4.0.0-sources.jar!/io/restassured/response/ResponseOptions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="152" column="23" lean-forward="true" selection-start-line="152" selection-start-column="23" selection-end-line="152" selection-end-column="23" />
+          <caret line="46" column="17" lean-forward="false" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.rest-assured/json-path/4.0.0/96d9ecbd98f310416bf8e7fd4b60900e5f8f38ea/json-path-4.0.0-sources.jar!/io/restassured/path/json/JsonPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="190" column="5" lean-forward="true" selection-start-line="190" selection-start-column="5" selection-end-line="190" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.14.3/bfd2538501a129a142fe8366169c48b91609dc0b/testng-6.14.3-sources.jar!/org/testng/internal/MethodInvocationHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.14.3/bfd2538501a129a142fe8366169c48b91609dc0b/testng-6.14.3-sources.jar!/org/testng/internal/Invoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="592" column="0" lean-forward="false" selection-start-line="592" selection-start-column="0" selection-end-line="592" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/src/main/utillPackage/com/pojoClasses/authenticationPojoClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/src/test/com/testpages/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="41" column="41" lean-forward="true" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/src/test/com/testpages/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/src/test/com/testpages/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/javaLoo/AvgOfNumberUsingfForLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/javaLoo/ContinuesInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/javaLoo/MultiplicationTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/javaLoo/PrintOddNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/stringDemoPackage/checkLetterisPresnet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.rest-assured/rest-assured/4.0.0/894ac3a674c00a2d8d448e86aa79ee4e37e76c3c/rest-assured-4.0.0-sources.jar!/io/restassured/response/ResponseBodyExtractionOptions.java">
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/stringDemoPackage/checkLetterPresent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="125" column="12" lean-forward="false" selection-start-line="125" selection-start-column="4" selection-end-line="125" selection-end-column="12" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/stringDemoPackage/checkWorPresentInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi/4.1.0/cd630af5d978343b6f18e9a27d5609bf4dc75163/poi-4.1.0-sources.jar!/org/apache/poi/ss/usermodel/Workbook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/Practicepackage/PrintStars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/javaconceptexamples/inheritancepackage/PrintDuplicateInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/assignementPrograms/EvenNumberFrom1to100.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restapi/src/main/java/com/RestEndPointMethods/RESTAssuredGetMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.rest-assured/rest-assured/4.0.0/894ac3a674c00a2d8d448e86aa79ee4e37e76c3c/rest-assured-4.0.0-sources.jar!/io/restassured/specification/RequestSenderOptions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="49" column="21" lean-forward="false" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+        <state relative-caret-position="697">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.rest-assured/rest-assured/4.0.0/894ac3a674c00a2d8d448e86aa79ee4e37e76c3c/rest-assured-4.0.0-sources.jar!/io/restassured/specification/PreemptiveAuthSpec.java">
+    <entry file="file://$PROJECT_DIR$/selenium/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        <state relative-caret-position="527">
+          <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/selenium/src/main/com/pages/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="250">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.14.0/8c0af6fdccdc89a4394de7e3a8817ed2d6e41d7d/selenium-api-3.14.0-sources.jar!/org/openqa/selenium/WebDriver.java">
+    <entry file="file://$PROJECT_DIR$/selenium/src/test/com/testpages/JsonExampleDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2448">
-          <caret line="165" column="5" lean-forward="false" selection-start-line="165" selection-start-column="5" selection-end-line="165" selection-end-column="5" />
+        <state relative-caret-position="272">
+          <caret line="22" column="71" lean-forward="true" selection-start-line="22" selection-start-column="71" selection-end-line="22" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/src/main/com/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="38" column="15" lean-forward="false" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="15" />
+          <folding>
+            <element signature="e#964#965#0" expanded="true" />
+            <element signature="e#1039#1040#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/src/test/com/testpages/AddNewCustomerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="57" column="29" lean-forward="true" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/src/test/com/testpages/ProjectAndCustomerPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/selenium/src/test/com/testpages/GetAPIMethodTest.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restapi/src/main/java/utilPackage/RESTAPIUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/src/main/utillPackage/Utillclass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cucumber/src/features/mulitiplcation.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cucumber/src/main/java/RunnerTest/RunWith.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cucumber/src/main/java/RunnerTest/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restapi/src/test/java/com/RestAssuredTestMethods/RestAssuredGetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium/src/main/com/pages/CustomerProjectPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <element signature="e#2319#2320#0" expanded="false" />
+            <element signature="e#2376#2377#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1884,122 +2207,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/src/test/resources/TestData.xml" />
-    <entry file="file://$PROJECT_DIR$/selenium/src/test/resources/test1.json" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/io/FileReader.java">
+    <entry file="file://$PROJECT_DIR$/selenium/src/test/com/testpages/ProjectAddTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="55" column="6" lean-forward="false" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/c5b4c491aecb72e7c32a78da0b5c6b9cda8dee0f/gson-2.8.5-sources.jar!/com/google/gson/Gson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="736" column="5" lean-forward="true" selection-start-line="736" selection-start-column="5" selection-end-line="736" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/src/test/resources/test1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/src/main/utillPackage/com/pojoClasses/ProjectDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/src/main/utillPackage/com/pojoClasses/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/src/test/resources/jsonFile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/src/main/utillPackage/com/pojoClasses/authenticationPojoClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/src/test/com/testpages/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="39" column="7" lean-forward="false" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+        <state relative-caret-position="46">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/src/test/com/testpages/ProjectAndCustomerPageTest.java">
+    <entry file="file://$PROJECT_DIR$/selenium/src/main/com/pages/ProjectAdd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/src/test/com/testpages/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="233">
+          <caret line="86" column="69" lean-forward="false" selection-start-line="86" selection-start-column="69" selection-end-line="86" selection-end-column="69" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#3465#3466#0" expanded="false" />
+            <element signature="e#3522#3523#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Properties.java">
+    <entry file="file://$PROJECT_DIR$/restapi/src/test/java/com/RestAssuredTestMethods/RestAssuredPostTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="967" column="18" lean-forward="false" selection-start-line="967" selection-start-column="18" selection-end-line="967" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/src/main/com/pages/CustomerProjectPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="54" column="50" lean-forward="false" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="50" />
+        <state relative-caret-position="454">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/src/test/com/testpages/AddNewCustomerTest.java">
+    <entry file="file://$PROJECT_DIR$/Cucumber/src/test/java/features/Contact_Form.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="37" column="32" lean-forward="false" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+        <state relative-caret-position="170">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/restapi/build.gradle">
+    <entry file="file://$PROJECT_DIR$/Cucumber/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/src/test/resources/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state relative-caret-position="488">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="jar://E:/POMJARs/jul-to-slf4j-1.7.12.jar!/META-INF/maven/org.slf4j/jul-to-slf4j/pom.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2007,177 +2258,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/Practicepackage/ArrayCopy.java">
+    <entry file="jar://E:/POMJARs/jul-to-slf4j-1.7.12.jar!/META-INF/maven/org.slf4j/jul-to-slf4j/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="272">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/Practicepackage/PrimeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/Practicepackage/PrintStars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/Practicepackage/ReverseArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/sortingProgarmPackage/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="45" lean-forward="false" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javatest/src/main/java/Practicepackage/Array2.java">
+    <entry file="file://$PROJECT_DIR$/Cucumber/src/test/java/stepDef/Contact_Form.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/src/test/com/testpages/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/src/main/com/pages/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.14.3/bfd2538501a129a142fe8366169c48b91609dc0b/testng-6.14.3-sources.jar!/org/testng/internal/MethodInvocationHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/src/test/com/testpages/CustomerIDTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testng/testng/6.14.3/bfd2538501a129a142fe8366169c48b91609dc0b/testng-6.14.3-sources.jar!/org/testng/internal/Invoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="591" column="0" lean-forward="false" selection-start-line="591" selection-start-column="0" selection-end-line="591" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/src/main/com/pages/CustomerID.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/src/test/com/testpages/JsonExampleDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium/src/main/utillPackage/Utillclass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
           <folding>
-            <element signature="e#2563#2564#0" expanded="true" />
-            <element signature="e#2630#2631#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/restapi/src/main/java/utilPackage/RESTAPIUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/restapi/src/main/java/com/RestEndPointMethods/RESTAssuredGetMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.rest-assured/json-path/4.0.0/96d9ecbd98f310416bf8e7fd4b60900e5f8f38ea/json-path-4.0.0-sources.jar!/io/restassured/path/json/JsonPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="192" column="7" lean-forward="true" selection-start-line="192" selection-start-column="7" selection-end-line="192" selection-end-column="7" />
-          <folding>
-            <element signature="e#6174#6175#0" expanded="true" />
-            <element signature="e#6204#6205#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.rest-assured/rest-assured/4.0.0/894ac3a674c00a2d8d448e86aa79ee4e37e76c3c/rest-assured-4.0.0-sources.jar!/io/restassured/response/ResponseOptions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="46" column="17" lean-forward="true" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/restapi/src/test/java/com/RestAssuredTestMethods/RestAssuredGetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/restapi/src/test/java/com/RestAssuredTestMethods/RestAssuredPostTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2233,12 +2328,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>restapi_main|restapi</last-edited>
+          <last-edited>Cucumber|Cucumber</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.25172412" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -2250,7 +2344,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.25172412" />
               </list>
             </option>
           </splitter-proportions>

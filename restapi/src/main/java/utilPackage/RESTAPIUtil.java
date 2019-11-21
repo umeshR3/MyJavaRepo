@@ -16,8 +16,6 @@ public class RESTAPIUtil {
     public int getStatuscode(String path)
     {
         return getResponseAPI().get(path).statusCode();
-
-
     }
     public JsonPath getJSONPath(String path)
     {

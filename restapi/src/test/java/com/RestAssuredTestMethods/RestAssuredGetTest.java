@@ -15,11 +15,14 @@ public class RestAssuredGetTest {
         // restAssuredGetMethod=new RESTAssuredGetMethod();
         // restAssuredGetMethod.baseURI(response);
 //        RestAssured.baseURI="http://localhost:8081";
-        ResponseBody res = RestAssured.given().baseUri("http://localhost:8081")
-                .auth()
+        ResponseBody res = RestAssured.given().baseUri("http://localhost:8081").auth()
+
+
+
+
                 .preemptive()
                 .basic("umeshr3", "Umesh@123")
-                .get("/rest/api/2/issue/SCRUM-25").body();
+                .get("/rest/api/2/issue/SCRUM-25");
 
         System.out.println(res);
 
